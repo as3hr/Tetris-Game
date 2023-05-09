@@ -139,9 +139,6 @@ class _GameBoardState extends State<GameBoard> {
       if (row >= 0 && gameBoard[row][col] != null) {
         return true;
       }
-      // if (row >= colLength || colLength < 0 || colLength >= rowLength) {
-      //   return true;
-      // }
     }
     return false;
   }
