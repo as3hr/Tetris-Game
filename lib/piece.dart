@@ -15,7 +15,6 @@ class Piece {
   void initializePiece() {
     switch (type) {
       case Tetromino.L:
-        // position = [4, 14, 24, 25];
         position = [-26, -16, -6, -5];
         break;
 
@@ -65,7 +64,7 @@ class Piece {
   }
 
   int rotateState = 1;
-  void rotaePiece() {
+  void rotatePiece() {
     List<int> newPosition = [];
 
     switch (type) {

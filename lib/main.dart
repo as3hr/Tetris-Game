@@ -161,7 +161,7 @@ class _GameBoardState extends State<GameBoard> {
 
   void rotatePiece() {
     setState(() {
-      currentpiece.rotaePiece();
+      currentpiece.rotatePiece();
     });
   }
 
