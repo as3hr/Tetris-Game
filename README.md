@@ -7,6 +7,9 @@ How this game works:
 3) A random piece will generate each time.
 4) There are a total of three buttons. A user can move the piece right, or left and rotate it according to the game situation.
 
+
+APK Link: https://drive.google.com/file/d/1cQ-dUeGlyrN54ZQG5Fl3xSCiNCIBJKiD/view?usp=drivesdk
+
 This game is built purely with core flutter.
 
 D E M O - O F - T H E - G A M E:
